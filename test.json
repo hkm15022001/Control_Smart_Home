@@ -1,0 +1,199 @@
+{
+    "intents": [
+        {
+            "tag": "100",
+            "patterns": [
+                "cảnh đêm tăm tối",
+                "kích đèn tại phòng khách",
+                "nhờ bạn mở giúp đèn phòng khách",
+                "kích hoạt đèn tại chỗ phòng khách",
+                "trời tối rồi",
+                "trời tối sầm",
+                "kích hoạt đèn ở chỗ phòng khách",
+                "tôi cần bật đèn tại phòng khách",
+                "dự định bật đèn ở nơi phòng khách",
+                "tối rất sâu"
+            ]
+        },
+        {
+            "tag": "000",
+            "patterns": [
+                "tắt đèn ở phòng khách",
+                "đang cần tắt đèn tại phòng khách",
+                "Ý định tắt đèn tại nơi phòng khách",
+                "Tắt đèn ở phòng khách",
+                "muốn tắt đèn trong căn phòng ngồi chung",
+                "ngừng chiếu sáng ở căn phòng ngồi chung",
+                "dự định tắt đèn ở nơi phòng khách",
+                "Muốn tắt đèn trong căn phòng ngồi chung",
+                "hãy tắt đèn phòng khách",
+                "tôi muốn tắt đèn ở phòng khách"
+            ]
+        },
+        {
+            "tag": "001",
+            "patterns": [
+                "muốn tắt quạt ở chỗ phòng khách",
+                "đang cần tắt quạt vì thời tiết lạnh buốt",
+                "Thật là lạnh buốt",
+                "định tắt quạt vì trời lạnh quá",
+                "dự định tắt quạt tại nơi phòng khách",
+                "Nên tắt quạt vì trời lạnh ghê",
+                "muốn tắt quạt tại phòng khách",
+                "Muốn tắt quạt vì trời quá lạnh",
+                "đang có ý muốn tắt quạt tại chỗ phòng khách",
+                "cảm thấy lạnh quá, muốn tắt quạt"
+            ]
+        },
+        {
+            "tag": "002",
+            "patterns": [
+                "đã khóa cẩn thận kỹ lưỡng",
+                "muốn đóng cửa ở phòng khách",
+                "đang có ý muốn đóng cửa tại nơi phòng khách",
+                "đóng cửa ở phòng khách",
+                "đóng cửa lại",
+                "cần khóa cửa",
+                "Hãy đóng cửa tại phòng khách",
+                "khóa cửa đi nhanh nào",
+                "Đóng cửa tại căn phòng khách",
+                "hãy đóng cửa phòng khách"
+            ]
+        },
+        {
+            "tag": "101",
+            "patterns": [
+                "muốn bật quạt vì thấy nóng quá",
+                "bật quạt phòng khách",
+                "nóng buốt ",
+                "đang cần bật quạt để giảm bớt cảm giác nóng buốt",
+                "định bật quạt vì trời nóng buốt",
+                "bật quạt ở phòng khách",
+                "ý định bật quạt để giảm nhiệt độ",
+                "cảm thấy nóng quá, cần mở quạt để giảm nhiệt độ",
+                "mở máy quạt phòng khách",
+                "đang cần mở quạt lên vì nóng ghê"
+            ]
+        },
+        {
+            "tag": "102",
+            "patterns": [
+                "Mở cửa ở phòng khách",
+                "Muốn vào căn phòng",
+                "Ý định mở cửa tại nơi phòng khách",
+                "Ý định mở cửa ở phòng khách",
+                "đang có ý muốn mở cửa ở phòng khách",
+                "ý định mở cửa tại nơi phòng khách",
+                "hãy mở ra cửa đi",
+                "tôi cần mở cửa tại phòng khách",
+                "mở cửa ở phòng khách",
+                "Tôi cần mở cửa tại phòng khách"
+            ]
+        },
+        {
+            "tag": "110",
+            "patterns": [
+                "cần mở đèn tại phòng ngủ",
+                "tôi cần bật đèn tại phòng ngủ",
+                "đang có ý muốn mở đèn tại phòng ngủ",
+                "dự định bật đèn ở nơi phòng ngủ",
+                "đang có ý muốn bật đèn tại chỗ phòng ngủ",
+                "đang có ý muốn bật đèn ở phòng ngủ",
+                "Đang có ý muốn mở đèn tại nơi phòng ngủ",
+                "mở đèn tại chỗ phòng ngủ",
+                "Tôi cần bạn bật giúp đèn phòng ngủ",
+                "Tôi muốn bật đèn ở căn phòng ngủ"
+            ]
+        },
+        {
+            "tag": "111",
+            "patterns": [
+                "kích máy quạt ở phòng ngủ",
+                "bật quạt chỗ phòng ngủ",
+                "mở quạt tại phòng ngủ",
+                "mở quạt chỗ phòng ngủ",
+                "nhờ bạn mở giúp quạt phòng ngủ",
+                "tôi muốn mở quạt ở phòng ngủ",
+                "tôi muốn bật quạt ở phòng ngủ",
+                "kích hoạt quạt ở phòng ngủ",
+                "cần bật quạt tại phòng ngủ",
+                "bật quạt phòng ngủ"
+            ]
+        },
+        {
+            "tag": "112",
+            "patterns": [
+                "mở cửa tại căn phòng ngủ",
+                "Cần bạn mở giúp cửa phòng ngủ",
+                "Đang muốn mở cửa tại phòng ngủ",
+                "Tôi cần mở cửa tại phòng ngủ",
+                "dự định mở cửa trong căn phòng ngủ",
+                "Hãy mở cửa phòng ngủ",
+                "Tôi muốn mở cửa ở căn phòng ngủ",
+                "ý định mở cửa tại nơi phòng ngủ",
+                "Giúp mở cửa chỗ phòng ngủ",
+                "dự định mở cửa ở phòng ngủ"
+            ]
+        },
+        {
+            "tag": "010",
+            "patterns": [
+                "Ngừng hoạt động đèn tại chỗ phòng ngủ",
+                "đang cần tắt đèn vì muốn đi ngủ",
+                "ý định tắt đèn để chuẩn bị ngủ",
+                "muốn tắt đèn để chuẩn bị đi ngủ",
+                "muốn tắt đèn tại phòng ngủ",
+                "Đang có ý muốn tắt ánh sáng ở nơi phòng ngủ",
+                "tôi cần tắt đèn tại phòng ngủ",
+                "cần tắt đèn để chuẩn bị đi ngủ",
+                "Muốn tắt đèn tại nơi phòng ngủ",
+                "ngừng hoạt động đèn tại chỗ phòng ngủ"
+            ]
+        },
+        {
+            "tag": "011",
+            "patterns": [
+                "dừng hoạt động quạt trong căn phòng ngủ",
+                "tôi muốn tắt quạt ở phòng ngủ",
+                "tắt quạt ở phòng ngủ",
+                "dự định tắt quạt ở nơi phòng ngủ",
+                "đang có ý muốn tắt quạt ở phòng ngủ",
+                "đang cần tắt quạt tại phòng ngủ",
+                "ý định tắt quạt ở phòng ngủ",
+                "ngừng hoạt động quạt tại chỗ phòng ngủ",
+                "ngừng hoạt động quạt trong căn phòng ngủ",
+                "giúp tắt quạt chỗ phòng ngủ"
+            ]
+        },
+        {
+            "tag": "012",
+            "patterns": [
+                "Muốn đóng cửa trong căn phòng ngủ",
+                "Ý định đóng cửa tại nơi phòng ngủ",
+                "tôi cần đóng cửa tại phòng ngủ",
+                "Muốn đóng cửa tại phòng ngủ",
+                "Đang muốn đóng cửa tại phòng ngủ",
+                "dự định đóng cửa tại nơi phòng ngủ",
+                "ý định đóng cửa tại nơi phòng ngủ",
+                "Giúp đóng cửa chỗ phòng ngủ",
+                "Đang có ý muốn đóng cửa tại chỗ phòng ngủ",
+                "đang muốn đóng cửa tại phòng ngủ"
+            ]
+        },
+        {
+            "tag": "2xx",
+            "patterns": [
+                "Trái cây rất tốt cho sức khỏe",
+                "Bạn đã từng thử một hoạt động mạo hiểm nào không?",
+                "Xin chào, bạn có nhớ tôi không?",
+                "Bạn có bất kỳ kế hoạch nào cho ngày cuối tuần này?",
+                "Bạn thích điều gì nhất trong công việc của mình?",
+                "Đi du lịch là niềm vui của tôi",
+                "tại sao bạn thích chơi thể thao",
+                "alo, bạn có thấy tôi không",
+                "bạn đã từng thấy mưa bão không",
+                "Bạn có những kế hoạch gì trong tương lai?"
+            ]
+        }
+    ]
+}
